@@ -38,6 +38,7 @@ Execute the following files in order:
 | 12 | `LIMIT` / `OFFSET` | `ORDER BY price DESC LIMIT 3` | [LIMIT / OFFSET](examples/12_limit_offset.md) |
 | 13 | `AS` | `SELECT name AS product_name, price AS product_price FROM products;` | [Aliases](examples/13_aliases.md) |
 | 14 | Basic Functions | `UPPER()`, `LOWER()`, `LENGTH()` | [Basic Functions](examples/14_basic_functions.md) |
+| 15 | Aggregate Functions | `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()` | [Aggregate Functions](examples/15_aggregate_functions.md) |
 
 ## Learning Approach
 
