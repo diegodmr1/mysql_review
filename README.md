@@ -42,6 +42,7 @@ Execute the following files in order:
 | 16 | `GROUP BY` | `SELECT category, COUNT(*) FROM products GROUP BY category;` | [GROUP BY](examples/16_group_by.md) |
 | 17 | `HAVING` | `GROUP BY category HAVING AVG(price) > 500` | [HAVING](examples/17_having.md) |
 | 18 | `INSERT` | `INSERT INTO products (...) VALUES (...);` | [INSERT](examples/18_insert.md) |
+| 19 | `DELETE` | `DELETE FROM products WHERE id = 10;` | [DELETE](examples/19_delete.md) |
 
 ## Learning Approach
 
