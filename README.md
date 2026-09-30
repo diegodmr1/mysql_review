@@ -40,6 +40,7 @@ Execute the following files in order:
 | 14 | Basic Functions | `UPPER()`, `LOWER()`, `LENGTH()` | [Basic Functions](examples/14_basic_functions.md) |
 | 15 | Aggregate Functions | `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()` | [Aggregate Functions](examples/15_aggregate_functions.md) |
 | 16 | `GROUP BY` | `SELECT category, COUNT(*) FROM products GROUP BY category;` | [GROUP BY](examples/16_group_by.md) |
+| 17 | `HAVING` | `GROUP BY category HAVING AVG(price) > 500` | [HAVING](examples/17_having.md) |
 
 ## Learning Approach
 
