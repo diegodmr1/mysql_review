@@ -37,6 +37,7 @@ Execute the following files in order:
 | 11 | `ORDER BY` | `WHERE category = 'Electronics' ORDER BY price ASC` | [ORDER BY](examples/11_order_by.md) |
 | 12 | `LIMIT` / `OFFSET` | `ORDER BY price DESC LIMIT 3` | [LIMIT / OFFSET](examples/12_limit_offset.md) |
 | 13 | `AS` | `SELECT name AS product_name, price AS product_price FROM products;` | [Aliases](examples/13_aliases.md) |
+| 14 | Basic Functions | `UPPER()`, `LOWER()`, `LENGTH()` | [Basic Functions](examples/14_basic_functions.md) |
 
 ## Learning Approach
 
