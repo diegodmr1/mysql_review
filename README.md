@@ -24,6 +24,7 @@ Execute the following files in order:
 
 | # | Command | Code | Note |
 |---|---------|------|------|
+| 01 | `SELECT` | `SELECT * FROM products;` | [SELECT](examples/01_select.md) |
 
 ## Learning Approach
 
