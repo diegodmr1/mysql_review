@@ -29,6 +29,7 @@ Execute the following files in order:
 | 03 | `DISTINCT` | `SELECT DISTINCT category FROM products;` | [DISTINCT](examples/03_distinct.md) |
 | 04 | `WHERE` | `SELECT name, price FROM products WHERE category = 'Electronics';` | [WHERE](examples/04_where.md) |
 | 05 | Comparison Operators | `SELECT name, price, stock FROM products WHERE price >= 1000;` | [Comparison Operators](examples/05_comparison_operators.md) |
+| 06 | `AND`, `OR`, `NOT` | `WHERE category = 'Electronics' AND price >= 300` | [Logical Operators](examples/06_logical_operators.md) |
 
 ## Learning Approach
 
