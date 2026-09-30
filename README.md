@@ -46,6 +46,7 @@ Execute the following files in order:
 | 20 | `UPDATE` | `UPDATE products SET price = 200.00 WHERE id = 9;` | [UPDATE](examples/20_update.md) |
 | 21 | `PRIMARY KEY` | `id INT AUTO_INCREMENT PRIMARY KEY` | [PRIMARY KEY](examples/21_primary_key.md) |
 | 22 | `FOREIGN KEY` | `FOREIGN KEY (customer_id) REFERENCES customers(id)` | [FOREIGN KEY](examples/22_foreign_key.md) |
+| 23 | `INNER JOIN` | `orders INNER JOIN customers ON orders.customer_id = customers.id` | [INNER JOIN](examples/23_inner_join.md) |
 
 ## Learning Approach
 
