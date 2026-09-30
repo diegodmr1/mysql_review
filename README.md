@@ -25,6 +25,7 @@ Execute the following files in order:
 | # | Command | Code | Note |
 |---|---------|------|------|
 | 01 | `SELECT` | `SELECT * FROM products;` | [SELECT](examples/01_select.md) |
+| 02 | `SELECT columns` | `SELECT name, price FROM products;` | [SELECT Specific Columns](examples/02_select_columns.md) |
 
 ## Learning Approach
 
