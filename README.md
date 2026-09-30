@@ -36,6 +36,7 @@ Execute the following files in order:
 | 10 | `IS NULL` / `IS NOT NULL` | `WHERE city IS NOT NULL` | [NULL](examples/10_null.md) |
 | 11 | `ORDER BY` | `WHERE category = 'Electronics' ORDER BY price ASC` | [ORDER BY](examples/11_order_by.md) |
 | 12 | `LIMIT` / `OFFSET` | `ORDER BY price DESC LIMIT 3` | [LIMIT / OFFSET](examples/12_limit_offset.md) |
+| 13 | `AS` | `SELECT name AS product_name, price AS product_price FROM products;` | [Aliases](examples/13_aliases.md) |
 
 ## Learning Approach
 
