@@ -44,6 +44,7 @@ Execute the following files in order:
 | 18 | `INSERT` | `INSERT INTO products (...) VALUES (...);` | [INSERT](examples/18_insert.md) |
 | 19 | `DELETE` | `DELETE FROM products WHERE id = 10;` | [DELETE](examples/19_delete.md) |
 | 20 | `UPDATE` | `UPDATE products SET price = 200.00 WHERE id = 9;` | [UPDATE](examples/20_update.md) |
+| 21 | `PRIMARY KEY` | `id INT AUTO_INCREMENT PRIMARY KEY` | [PRIMARY KEY](examples/21_primary_key.md) |
 
 ## Learning Approach
 
