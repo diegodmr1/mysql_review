@@ -48,6 +48,7 @@ Execute the following files in order:
 | 22 | `FOREIGN KEY` | `FOREIGN KEY (customer_id) REFERENCES customers(id)` | [FOREIGN KEY](examples/22_foreign_key.md) |
 | 23 | `INNER JOIN` | `orders INNER JOIN customers ON orders.customer_id = customers.id` | [INNER JOIN](examples/23_inner_join.md) |
 | 24 | `LEFT JOIN` | `customers LEFT JOIN orders ON customers.id = orders.customer_id` | [LEFT JOIN](examples/24_left_join.md) |
+| 25 | Multiple `JOIN`s | `orders → customers → order_items → products` | [Multiple JOINs](examples/25_multiple_joins.md) |
 
 ## Learning Approach
 
