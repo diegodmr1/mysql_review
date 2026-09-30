@@ -16,9 +16,9 @@ Execute the following files in order:
 ### Tables
 
 - `products`
-- `customers` (coming soon)
-- `orders` (coming soon)
-- `order_items` (coming soon)
+- `customers`
+- `orders`
+- `order_items`
 
 ## SQL Review
 
@@ -34,6 +34,7 @@ Execute the following files in order:
 | 08 | `BETWEEN` | `WHERE price BETWEEN 300 AND 1500` | [BETWEEN](examples/08_between.md) |
 | 09 | `LIKE` | `WHERE name LIKE '%o%'` | [LIKE](examples/09_like.md) |
 | 10 | `IS NULL` / `IS NOT NULL` | `WHERE city IS NOT NULL` | [NULL](examples/10_null.md) |
+| 11 | `ORDER BY` | `WHERE category = 'Electronics' ORDER BY price ASC` | [ORDER BY](examples/11_order_by.md) |
 
 ## Learning Approach
 
