@@ -33,6 +33,7 @@ Execute the following files in order:
 | 07 | `IN` | `WHERE category IN ('Electronics', 'Furniture')` | [IN](examples/07_in.md) |
 | 08 | `BETWEEN` | `WHERE price BETWEEN 300 AND 1500` | [BETWEEN](examples/08_between.md) |
 | 09 | `LIKE` | `WHERE name LIKE '%o%'` | [LIKE](examples/09_like.md) |
+| 10 | `IS NULL` / `IS NOT NULL` | `WHERE city IS NOT NULL` | [NULL](examples/10_null.md) |
 
 ## Learning Approach
 
