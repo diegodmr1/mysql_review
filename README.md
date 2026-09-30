@@ -39,6 +39,7 @@ Execute the following files in order:
 | 13 | `AS` | `SELECT name AS product_name, price AS product_price FROM products;` | [Aliases](examples/13_aliases.md) |
 | 14 | Basic Functions | `UPPER()`, `LOWER()`, `LENGTH()` | [Basic Functions](examples/14_basic_functions.md) |
 | 15 | Aggregate Functions | `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()` | [Aggregate Functions](examples/15_aggregate_functions.md) |
+| 16 | `GROUP BY` | `SELECT category, COUNT(*) FROM products GROUP BY category;` | [GROUP BY](examples/16_group_by.md) |
 
 ## Learning Approach
 
