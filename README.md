@@ -41,6 +41,7 @@ Execute the following files in order:
 | 15 | Aggregate Functions | `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()` | [Aggregate Functions](examples/15_aggregate_functions.md) |
 | 16 | `GROUP BY` | `SELECT category, COUNT(*) FROM products GROUP BY category;` | [GROUP BY](examples/16_group_by.md) |
 | 17 | `HAVING` | `GROUP BY category HAVING AVG(price) > 500` | [HAVING](examples/17_having.md) |
+| 18 | `INSERT` | `INSERT INTO products (...) VALUES (...);` | [INSERT](examples/18_insert.md) |
 
 ## Learning Approach
 
