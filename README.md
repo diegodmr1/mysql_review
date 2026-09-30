@@ -30,6 +30,7 @@ Execute the following files in order:
 | 04 | `WHERE` | `SELECT name, price FROM products WHERE category = 'Electronics';` | [WHERE](examples/04_where.md) |
 | 05 | Comparison Operators | `SELECT name, price, stock FROM products WHERE price >= 1000;` | [Comparison Operators](examples/05_comparison_operators.md) |
 | 06 | `AND`, `OR`, `NOT` | `WHERE category = 'Electronics' AND price >= 300` | [Logical Operators](examples/06_logical_operators.md) |
+| 07 | `IN` | `WHERE category IN ('Electronics', 'Furniture')` | [IN](examples/07_in.md) |
 
 ## Learning Approach
 
